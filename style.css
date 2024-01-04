@@ -1,0 +1,78 @@
+.feature{
+    text-align: center;
+    background-color:rgb(19, 114, 176);
+    color: white;
+    padding: 10px;
+    font-family: sans-serif;
+}
+.feature p{
+    color: white;
+}
+.hero h2{
+    color:rgb(19, 114, 176);
+    font-family: sans-serif;
+
+}
+.hero p{
+    font-size: 15px;
+    padding: 10px;
+    background-color: rgb(218, 221, 237);
+    width: 60%;
+    font-family: sans-serif;
+}
+.pro h2{
+    color:rgb(19, 114, 176);
+    font-family: sans-serif;
+
+}
+ #container{
+    border: 2px solid gray;
+    padding-left: 2px;
+    margin-left: 5px;
+    font-family: sans-serif;
+}
+h4{
+    color: rgb(45, 44, 44);
+}
+p{
+    color: rgb(131, 129, 129);
+}
+.field th{
+    line-height: 40px;
+    font-weight: 600;
+    color:rgb(37, 92, 187);;
+    font-size: 20px;
+    font-family: sans-serif;
+}
+.login{
+     text-align: center;            
+     margin: auto;
+     font-family: sans-serif;
+     color: gray;
+}
+.login input{
+    width: 250px;
+    height: 20px;
+    margin-top:10px ;
+}
+.login h2{
+    color:rgb(37, 92, 187);
+    margin-top: 4px;  
+}
+.login textarea{
+    width: 250px;
+    margin-top: 10px;
+}
+.login button{
+    margin-top:10px ;
+    height: 30px;
+    width: 250px;
+    background-color:rgb(37, 92, 187);
+    color: white;
+}
+.back{
+    margin-top: 0;
+    padding-top: 0;
+    background-color: rgb(249, 246, 246);
+    height: 725px;
+}
